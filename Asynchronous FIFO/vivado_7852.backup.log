@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Aug  9 23:11:08 2024
+# Process ID: 7852
+# Current directory: E:/BITS/sem 2/Projects/Asynchronous FIFO
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14004 E:\BITS\sem 2\Projects\Asynchronous FIFO\Asynchronous FIFO.xpr
+# Log file: E:/BITS/sem 2/Projects/Asynchronous FIFO/vivado.log
+# Journal file: E:/BITS/sem 2/Projects/Asynchronous FIFO\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.xpr}
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx_Vivado/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 1004.887 ; gain = 0.000
+update_compile_order -fileset sources_1
+import_files
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'sim_1'
+INFO: [filemgmt 20-334] All file(s) are already imported in fileset: 'sources_1'
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'sources_1'

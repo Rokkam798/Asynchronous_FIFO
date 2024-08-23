@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/binary_to_gray.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module binary_to_gray
+WARNING: [VRFC 10-3467] initial value of parameter 'size' is omitted [E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/binary_to_gray.sv:23]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/d_flip_flop.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_flip_flop
+WARNING: [VRFC 10-3467] initial value of parameter 'size' is omitted [E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/d_flip_flop.sv:23]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/fifo_mem.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_mem
+WARNING: [VRFC 10-3467] initial value of parameter 'FIFO_WIDTH' is omitted [E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/fifo_mem.sv:23]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/fifo_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_top
+INFO: [VRFC 10-2458] undeclared symbol wr_enable, assumed default net type wire [E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/fifo_top.sv:34]
+INFO: [VRFC 10-2458] undeclared symbol rd_enable, assumed default net type wire [E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/fifo_top.sv:35]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/gray_to_binary.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module gray_to_binary
+WARNING: [VRFC 10-3467] initial value of parameter 'size' is omitted [E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/gray_to_binary.sv:23]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/read_ptr_empty.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module read_ptr_empty
+WARNING: [VRFC 10-3467] initial value of parameter 'PTR_WIDTH' is omitted [E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/read_ptr_empty.sv:23]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/write_ptr_full.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module write_ptr_full
+WARNING: [VRFC 10-3467] initial value of parameter 'PTR_WIDTH' is omitted [E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sources_1/new/write_ptr_full.sv:23]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sim_1/new/tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

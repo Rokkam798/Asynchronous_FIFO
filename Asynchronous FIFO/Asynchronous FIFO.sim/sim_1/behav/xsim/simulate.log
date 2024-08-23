@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$finish called at time : 300 ns : File "E:/BITS/sem 2/Projects/Asynchronous FIFO/Asynchronous FIFO.srcs/sim_1/new/tb.sv" Line 50
